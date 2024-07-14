@@ -18,5 +18,5 @@ If you're unfamiliar with the game, the rules are very simple flip over two hidd
  ▪ If the cards do not match, both cards are returned to their initial hidden state.
  ▪ The game ends once all cards have been correctly matched. 
 
- 👉How to play
- 
+ 👉How to play <br>
+ click  https://tanya-hanswal.github.io/unified_card_game/

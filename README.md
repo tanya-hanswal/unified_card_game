@@ -1,4 +1,4 @@
-👉 # Animal Memory Card Game 
+👉##Animal Memory Card Game 
 
 To run this project, try running index.html project in updated and latest browsers with workinh internet connection.
 

@@ -1,4 +1,4 @@
-# Animal Memory Game
+👉# Animal Memory Game
 
 To run this project, try running index.html project in updated and latest browsers with workinh internet connection.
 
